@@ -1,4 +1,10 @@
+@font-face {
+  font-family: Ubuntu;
+  src: url(Ubuntu-Regular.ttf);
+}
+
 body{
+  font-family: Ubuntu;
 background-color: #4e7cc7
 color: #7bd5e3
 }
